@@ -14,5 +14,7 @@
             "email": "evanxian9@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "psr/event-dispatcher": "1.0.0"
+    }
 }
