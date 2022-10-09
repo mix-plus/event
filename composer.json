@@ -2,7 +2,7 @@
     "name": "mix-plus/event",
     "description": "event",
     "type": "library",
-    "license": "Apache2.0",
+    "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
             "MixPlus\\Event\\": "src/"
